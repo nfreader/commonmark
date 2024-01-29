@@ -6,6 +6,10 @@ Updates should follow the [Keep a CHANGELOG](https://keepachangelog.com/) princi
 
 ## [Unreleased][unreleased]
 
+### Changed
+
+- Made compatible with CommonMark spec 0.31.0
+
 ## [2.4.2] - 2024-02-02
 
 ### Fixed
